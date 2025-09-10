@@ -1,0 +1,105 @@
+{
+  "fetched_at": 1755181480,
+  "repos": [
+    {
+      "name": "Portfolio_Website_with_Flask",
+      "full_name": "Ritesh224s/Portfolio_Website_with_Flask",
+      "html_url": "https://github.com/Ritesh224s/Portfolio_Website_with_Flask",
+      "description": "A Flask-based portfolio site featuring Home, About, Projects, and Contact pages. Showcases skills, experience, and dynamic project listings. Includes a responsive design and functional contact form storing data in CSV. Fully customizable, ideal for personal branding and real-world web development practice.          ",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-13T16:24:24Z",
+      "topics": []
+    },
+    {
+      "name": "Data_Analysis_CSV_Files",
+      "full_name": "Ritesh224s/Data_Analysis_CSV_Files",
+      "html_url": "https://github.com/Ritesh224s/Data_Analysis_CSV_Files",
+      "description": "I analyzed sales data using Python’s Pandas and Matplotlib libraries. I imported a CSV file, performed grouping by product and region, calculated total sales, and visualized results with bar charts. This task demonstrates skills in data cleaning, aggregation, and visualization for business insights.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-11T15:16:53Z",
+      "topics": []
+    },
+    {
+      "name": "REST-API-With-Flask",
+      "full_name": "Ritesh224s/REST-API-With-Flask",
+      "html_url": "https://github.com/Ritesh224s/REST-API-With-Flask",
+      "description": "In Task 4, I developed a RESTful API using Flask, a lightweight Python web framework, to perform CRUD operations (Create, Read, Update, Delete) on a sample dataset. The purpose of this task was to understand backend API development, implement structured JSON-based communication, and verify API functionality using Postman.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-10T15:59:47Z",
+      "topics": []
+    },
+    {
+      "name": "news-headline-scraper",
+      "full_name": "Ritesh224s/news-headline-scraper",
+      "html_url": "https://github.com/Ritesh224s/news-headline-scraper",
+      "description": "A Python script that scrapes top news headlines from a public website using requests and BeautifulSoup. Headlines are extracted from heading tags and saved to a .txt file with a timestamp. A simple project to learn web scraping, data parsing, and file handling.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-07T15:20:51Z",
+      "topics": []
+    },
+    {
+      "name": "To_Do_list_Application",
+      "full_name": "Ritesh224s/To_Do_list_Application",
+      "html_url": "https://github.com/Ritesh224s/To_Do_list_Application",
+      "description": "A simple console-based To-Do List application built with Python. It allows users to add, view, remove, mark tasks as done, and save them persistently in a text file. A beginner-friendly project demonstrating Python file handling, list operations, and user input handling.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-06T16:16:17Z",
+      "topics": []
+    },
+    {
+      "name": "Calculator_CLI_App",
+      "full_name": "Ritesh224s/Calculator_CLI_App",
+      "html_url": "https://github.com/Ritesh224s/Calculator_CLI_App",
+      "description": "A simple Command-Line Interface (CLI) calculator built in Python that supports basic arithmetic operations — addition, subtraction, multiplication, and division.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-05T18:21:35Z",
+      "topics": []
+    },
+    {
+      "name": "Triton_Wars",
+      "full_name": "Ritesh224s/Triton_Wars",
+      "html_url": "https://github.com/Ritesh224s/Triton_Wars",
+      "description": "Build a Snake Water Gun game by using python.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-07-26T13:36:58Z",
+      "topics": []
+    },
+    {
+      "name": "Guess-Master",
+      "full_name": "Ritesh224s/Guess-Master",
+      "html_url": "https://github.com/Ritesh224s/Guess-Master",
+      "description": "Guess Master: A fun Python game where players guess a random numbers.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-08-04T15:27:40Z",
+      "topics": []
+    },
+    {
+      "name": "JARVIS-AI-Bot",
+      "full_name": "Ritesh224s/JARVIS-AI-Bot",
+      "html_url": "https://github.com/Ritesh224s/JARVIS-AI-Bot",
+      "description": "Conversational AI assistant with task automation, music player, and API integrations. Built with Python and leveraging OpenAI GPT-3.5 Turbo.",
+      "language": "Python",
+      "stars": 0,
+      "updated": "2025-01-26T10:39:02Z",
+      "topics": []
+    },
+    {
+      "name": "Ritesh224s",
+      "full_name": "Ritesh224s/Ritesh224s",
+      "html_url": "https://github.com/Ritesh224s/Ritesh224s",
+      "description": "",
+      "language": "Other",
+      "stars": 0,
+      "updated": "2025-02-07T11:02:28Z",
+      "topics": []
+    }
+  ]
+}
